@@ -32,8 +32,3 @@ Usage
 * Run "gsyncd start" in any directory below of the directory holding your gsyncd.conf file to start the daemon script.
 * By default, the script will create a .gsyncd.pid file for tracking the daemon process ID and a .gsyncd.log file to which the gsync output will be written.
 * Arguments known are the ones known from initd scripts (start,stop,restart,status) as well as "run" for manually triggering a gsync and "log" for checking the gsync output.
-
-
-Author
-------
-Wolfgang Ziegler, nuppla@zites.net, drunomics GmbH
