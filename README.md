@@ -21,7 +21,7 @@ Installation
  * Clone the script in a directory of your choice, e.g.
 ```
 cd ~/opt
-git clone git@github.com:Rick7C2/gsyncd.git
+git clone https://github.com/Rick7C2/gsyncd.git gsyncd
 ```
  * Best, put gsyncd in your $PATH, for example by running:
 ```
